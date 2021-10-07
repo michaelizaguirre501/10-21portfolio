@@ -4822,3 +4822,7 @@ body {
     display: none;
   }
 }
+
+.image-link-logo {
+  height: 400px;
+}
